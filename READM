@@ -1,0 +1,12 @@
+# start-dfs.sh
+# start-yarn.sh
+# mr-jobhistory-daemon.sh start historyserver
+
+# mr-jobhistory-daemon.sh stop historyserver
+# stop-yarn.sh
+# stop-dfs.sh
+
+# dfs web address : http://hostname:9870
+# dfs http address: hostname:9000
+# yarn web address: http://hostname:8088  (默认8088，可修改）
+# yarn history server: http://hostname:19888
